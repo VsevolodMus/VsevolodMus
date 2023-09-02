@@ -19,7 +19,6 @@ I am a data analyst with a passion for exploring and transforming information in
 • Worked as a system administrator for 7 years;<br>
 • Practiced at Samsung and participated in IoT development projects;<br>
 • Developed Telegram Bots<br>
+  
 
-### 👨‍🎓 Education:
-| <div style="width:210px">[<img src="https://github.com/VsevolodMus/VsevolodMus/assets/138299372/4fb165ae-9534-44b0-a407-956e606bf204" width="208px" alt="Google Data Analytics">](https://www.coursera.org/account/accomplishments/professional-cert/WM86PH3RZUFP)</div> | |
-|--|--|
+### 👨‍🎓 Education:<div style="width:210px">[<img src="https://github.com/VsevolodMus/VsevolodMus/assets/138299372/4fb165ae-9534-44b0-a407-956e606bf204" width="208px" alt="Google Data Analytics">](https://www.coursera.org/account/accomplishments/professional-cert/WM86PH3RZUFP)</div>
