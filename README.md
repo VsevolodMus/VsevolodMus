@@ -24,7 +24,7 @@
 • Разработал Telegram-боты<br>
   
 
-#### 👨‍🎓 Образование:<div style="width:210px">[<img src="https://github.com/VsevolodMus/VsevolodMus/assets/138299372/4fb165ae-9534-44b0-a407-956e606bf204" width="208px" alt="Google Data Analytics">](https://www.coursera.org/account/accomplishments/professional-cert/WM86PH3RZUFP)</div>
+#### 👨‍🎓 Образование<div style="width:210px">[<img src="https://github.com/VsevolodMus/VsevolodMus/assets/138299372/4fb165ae-9534-44b0-a407-956e606bf204" width="208px" alt="Google Data Analytics">](https://www.coursera.org/account/accomplishments/professional-cert/WM86PH3RZUFP)</div>
 
 
 **Учебные проекты**<br>
