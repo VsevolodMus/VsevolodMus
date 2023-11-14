@@ -20,14 +20,20 @@
   
 
 #### 👨‍🎓 Образование
-| <div style="width:210px">[<img src="https://github.com/VsevolodMus/VsevolodMus/assets/138299372/4fb165ae-9534-44b0-a407-956e606bf204" width="208px" alt="Google Data Analytics">](https://www.coursera.org/account/accomplishments/professional-cert/WM86PH3RZUFP)</div> | <div style="width:210px">[<img src="https://github.com/VsevolodMus/VsevolodMus/assets/138299372/53d13af7-cd6f-47b9-a302-0618040e4bd8" width="208px" alt="## Google Advanced Data Analytics">](https://www.coursera.org/account/accomplishments/professional-cert/D9SEA29UFNED)</div> |
-|--|--|
-
+| <div style="width:210px"><img src="https://github.com/VsevolodMus/VsevolodMus/assets/138299372/4fb165ae-9534-44b0-a407-956e606bf204" width="208px" alt="Google Data Analytics"></div> | <div style="width:210px"><img src="https://github.com/VsevolodMus/VsevolodMus/assets/138299372/53d13af7-cd6f-47b9-a302-0618040e4bd8" width="208px" alt="## Google Advanced Data Analytics"></div> |<div style="width:210px"><img src="https://github.com/VsevolodMus/VsevolodMus/assets/138299372/54ad441a-9b1e-4e40-9a5b-fbdb9a7f249c" width="208px" alt="stepik-certificate-58852-dbba94b"></div>|
+|--|--|--|
 
 #### 🎓Учебные проекты
 
-[Google Data Analytics Professional Certificate](https://github.com/VsevolodMus/Google_Data_Analytics)
-| Название проекта | Инструменты |
-|--|--|
-| [Смарт-устройства Bellabeat: Анализ тенденций](https://github.com/VsevolodMus/Google_Data_Analytics/tree/main/Bellabeat) | R |
-| [Байкшеринг Cyclistic: Разработка новой маркетинговой стратегии](https://github.com/VsevolodMus/Google_Data_Analytics/tree/main/CyclisticU) | R, Tableau |
+[Google Data Analytics Professional Certificate](https://github.com/VsevolodMus/Coursera/tree/main/Google%20Data%20Analytics)
+
+- [Смарт-устройства Bellabeat: Анализ тенденций](https://github.com/VsevolodMus/Coursera/tree/main/Google%20Data%20Analytics/Bellabeat)
+- [Байкшеринг Cyclistic: Разработка новой маркетинговой стратегии](https://github.com/VsevolodMus/Coursera/tree/main/Google%20Data%20Analytics/Cyclistic)
+
+[Google Advanced Data Analytics Professional Certificate](https://github.com/VsevolodMus/Coursera/tree/main/Google%20Advanced%20Data%20Analytics)
+
+- [Анализ эффективности рекламы и продаж](https://colab.research.google.com/github/VsevolodMus/Coursera/blob/main/Google%20Advanced%20Data%20Analytics/Анализ%20эффективности%20рекламы%20и%20продаж/Dell.ipynb)
+- [Исследование взаимосвязей между особенностями видеороликов и пользователями](https://colab.research.google.com/github/VsevolodMus/Coursera/blob/main/Google%20Advanced%20Data%20Analytics/Исследование%20взаимосвязей%20между%20особенностями%20видеоролика%20и%20пользователями/TikTok.ipynb)
+- [Оценка и проверка гипотез по качеству воздуха](https://colab.research.google.com/github/VsevolodMus/Coursera/blob/main/Google%20Advanced%20Data%20Analytics/Оценка%20и%20проверка%20гипотез%20по%20качеству%20воздуха/ROA.ipynb)
+- [Исследование и предотвращение оттока пользователей](https://colab.research.google.com/github/VsevolodMus/Coursera/blob/main/Google%20Advanced%20Data%20Analytics/Исследование%20и%20предотвращение%20оттока%20пользователей/Waze.ipynb)
+- [Изучение опросов среди сотрудников с целью предотвращения их увольнения](https://colab.research.google.com/github/VsevolodMus/Coursera/blob/main/Google%20Advanced%20Data%20Analytics/Изучение%20опросов%20среди%20сотрудников%20с%20целью%20предотвращения%20их%20увольнения/Salifort_Motors.ipynb)
