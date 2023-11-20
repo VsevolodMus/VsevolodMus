@@ -37,3 +37,7 @@
 - [Оценка и проверка гипотез по качеству воздуха](https://colab.research.google.com/github/VsevolodMus/Coursera/blob/main/Google%20Advanced%20Data%20Analytics/Оценка%20и%20проверка%20гипотез%20по%20качеству%20воздуха/ROA.ipynb)
 - [Исследование и предотвращение оттока пользователей](https://colab.research.google.com/github/VsevolodMus/Coursera/blob/main/Google%20Advanced%20Data%20Analytics/Исследование%20и%20предотвращение%20оттока%20пользователей/Waze.ipynb)
 - [Изучение опросов среди сотрудников с целью предотвращения их увольнения](https://colab.research.google.com/github/VsevolodMus/Coursera/blob/main/Google%20Advanced%20Data%20Analytics/Изучение%20опросов%20среди%20сотрудников%20с%20целью%20предотвращения%20их%20увольнения/Salifort_Motors.ipynb)
+
+
+[Собственные проекты](https://github.com/VsevolodMus/Machine_Learning/tree/main)
+- [Распознавание автомобиля по его силуэту](https://colab.research.google.com/github/VsevolodMus/Machine_Learning/blob/main/%D0%A0%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F/Vehicle.ipynb)
